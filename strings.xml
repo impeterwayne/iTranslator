@@ -1,0 +1,1092 @@
+<resources>
+    <string name="app_name" translatable="false">Pregnancy Tracker &amp;Caculator</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="please_select_language">Please select language</string>
+    <string name="next">Next</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_request_record_permission">"Recording is the permission required for the app to work"</string>
+    <string name="txt_denie">To use this feature, you need permission</string>
+    <string name="txt_thanks_you_for_rating">Thanks you for rating!</string>
+    <string name="txt_later" translatable="false"><u>Later</u></string>
+    <string name="txt_rate_5_star" translatable="false">If you like this app, please rate our app 5 stars in store!</string>
+    <string name="txt_do_you_like_our_app" translatable="false">Do you like our app?</string>
+    <string name="text_ob_title_1">Pregnancy Tracker</string>
+    <string name="text_ob_des_1">Track key milestones throughout your pregnancy.</string>
+    <string name="text_ob_title_2">Baby Development</string>
+    <string name="text_ob_des_2">Follow your baby’s weekly growth with clear, simple updates and visuals.</string>
+    <string name="text_ob_title_4">Smart Tools</string>
+    <string name="text_ob_des_4">Helpful tools to plan, monitor, and feel confident every step of the way.</string>
+    <string name="text_ob_title_3">Reminders</string>
+    <string name="text_ob_des_3">Get timely, personalized reminders for each stage of your pregnancy.</string>
+    <string name="start">Start</string>
+    <string name="apply_language">Applying selected language...</string>
+    <string name="permission">Permission</string>
+    <string name="this_application_needs_your_permission_to_enable_the_app_functions">This application needs your permission to enable the app functions</string>
+    <string name="notifications">Notifications</string>
+    <string name="camera">Camera</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="notification_permission">Notification Permission</string>
+    <string name="grant_camera_permission_to_use_feature">Grant Camera Permission to use feature.</string>
+    <string name="cancel">Cancel</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="grant_notification_permission_to_use_our_feature">Grant Notification Permission to use our feature.</string>
+    <string name="about_you">About you</string>
+    <string name="full_name">Full name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="age">Age</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="save">Save</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="choose_existing_photo">Choose Existing Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="tool">Tool</string>
+    <string name="calendar">Calendar</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="choose_your_preferred_method_to_estimate_your_due_date">Choose your preferred method to estimate your due date</string>
+    <string name="method">Method</string>
+    <string name="choose_method">Choose method</string>
+    <string name="datepicker">Datepicker</string>
+    <string name="choose_date">Choose date</string>
+    <string name="first_day_of_last_period">First day of last period</string>
+    <string name="due_date">Due date</string>
+    <string name="estimated_date">Estimated Date</string>
+    <string name="week_of_pregnancy">Week of pregnancy</string>
+    <string name="time_left">Time left</string>
+    <string name="edit">Edit</string>
+    <string name="categories">Categories</string>
+    <string name="scan_baby">Scan Baby</string>
+    <string name="baby_size">Baby Size</string>
+    <string name="my_bump">My Bump</string>
+    <string name="add_your_bump_photo_now">Add your bump photo now!</string>
+    <string name="_3d_scan">3D Scan</string>
+    <string name="_2d_scan">2D Scan</string>
+    <string name="weeks">Weeks</string>
+    <string name="please_enter_information">Please enter information</string>
+    <string name="ok">OK</string>
+    <string name="please_select_an_option">Please select an option</string>
+    <string name="confirm">Confirm</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="change_units">Change Units</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share">Share</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="week_">Week %s</string>
+    <string name="week_left">%s weeks left</string>
+    <string name="weeks_pregnant">%s weeks pregnant!</string>
+    <string name="weeks_day">%s weeks, %s day</string>
+    <string name="length">Length</string>
+    <string name="undefined">Undefined</string>
+    <string name="weight">Weight</string>
+    <string name="fruit">Fruit</string>
+    <string name="no_data">No data.</string>
+    <string name="height">Height</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="no_bookmarks_yet">No Bookmarks Yet.</string>
+    <string name="image">Image</string>
+    <string name="add_image">Add Image</string>
+    <string name="select_the_type_of_event">Select the type of event</string>
+    <string name="note">Note</string>
+    <string name="doctor_appointment">Doctor appointment</string>
+    <string name="medications">Medications</string>
+    <string name="mood">Mood</string>
+    <string name="when">When?</string>
+    <string name="need_a_reminder">Need a reminder?</string>
+    <string name="what_would_you_like_to_add">What would you like to add?</string>
+    <string name="months">Months</string>
+    <string name="are_you_sure_you_want_to_delete_this_photo">Are you sure you want to delete this photo?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="baby_scans_are_not_available_before_4_weeks_of_pregnancy">Baby scans are not available before 4 weeks of pregnancy</string>
+    <string name="a_scan_of_a_week_old_fetus">A scan of a %s-week-old fetus</string>
+    <string name="your_baby_is_the_size_of_a">Your baby is the size of a %s</string>
+    <string name="week_1">Your body begins a new cycle, preparing for conception.</string>
+    <string name="week_2">An egg is getting ready to be released, and your uterus is preparing to welcome a tiny new life.</string>
+    <string name="week_3">Fertilization occurs — the first step in forming an embryo.</string>
+    <string name="week_4">The embryo implants in the uterus and starts to grow. Your baby is now the size of a sesame seed (~0.5mm).</string>
+    <string name="week_5">The heart starts to beat and the neural tube begins to form.</string>
+    <string name="week_6">Tiny arms, legs, and facial features begin to take shape.</string>
+    <string name="week_7">Your baby has a large head and curved body, with limb buds more visible — about 1cm long, like a small bean.</string>
+    <string name="week_8">Internal organs are forming, and your baby can make small movements.</string>
+    <string name="week_9">The face becomes more defined, and fingers and toes start to separate.</string>
+    <string name="week_10">Your baby can swallow amniotic fluid and move gently. About 3.5cm long, like a grape.</string>
+    <string name="week_11">Bones begin to harden, and your baby may start hiccuping.</string>
+    <string name="week_12">Genitals begin developing, and your baby might suck their thumb.</string>
+    <string name="week_13">Fingerprints and unique features are starting to form.</string>
+    <string name="week_14">Facial expressions appear, and gentle kicks may begin. About 9cm long — like a lemon.</string>
+    <string name="week_15">The ears are more developed, and the baby may start hearing muffled sounds.</string>
+    <string name="week_16">The body looks more proportionate, and eyes can move behind closed lids.</string>
+    <string name="week_17">Your baby begins forming fat stores to stay warm after birth.</string>
+    <string name="week_18">You may feel gentle fluttering — a magical first movement.</string>
+    <string name="week_19">The senses continue developing, though the baby\'s skin is still thin.</string>
+    <string name="week_20">Halfway there! The baby is about 25cm long and weighs ~300g — about the size of a banana.</string>
+    <string name="week_21">Baby can now swallow, and taste buds are developing.</string>
+    <string name="week_22">Baby’s shape becomes more defined, with fully formed limbs and delicate skin.</string>
+    <string name="week_23">The lungs start producing a substance needed for breathing after birth.</string>
+    <string name="week_24">Baby reacts to bright lights and loud sounds.</string>
+    <string name="week_25">Hair, eyebrows, and eyelashes are growing more visible.</string>
+    <string name="week_26">Baby opens their eyes for the first time, and the brain is developing rapidly.</string>
+    <string name="week_27">Sleep-wake cycles begin. The baby weighs around 900g — like a small pineapple.</string>
+    <string name="week_28">The third trimester begins. The baby continues gaining weight and refining vital systems.</string>
+    <string name="week_29">Brain development accelerates, and movements are more controlled.</string>
+    <string name="week_30">Fat builds up under the skin to help keep the baby warm.</string>
+    <string name="week_31">Baby’s skin becomes smoother, and nails grow longer.</string>
+    <string name="week_32">Baby is about 42cm long and weighs ~1.7kg — close to a bunch of greens.</string>
+    <string name="week_33">The skull stays soft to help during delivery.</string>
+    <string name="week_34">Lungs are almost ready, and the baby practices steady breathing.</string>
+    <string name="week_35">Baby is curled snugly in the womb, as space gets tighter.</string>
+    <string name="week_36">Baby often turns head-down, getting ready for birth.</string>
+    <string name="week_37">Full term! The baby\'s body is prepared to enter the world.</string>
+    <string name="week_38">Baby now coordinates sucking, swallowing, and breathing — essential for life outside.</string>
+    <string name="week_39">Baby is about 50cm long and weighs around 3kg — like a small pumpkin.</string>
+    <string name="week_40">Baby could arrive any moment now. Congratulations — you’re about to meet your little angel!</string>
+    <string name="week_41">The baby was born.</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="baby">Baby</string>
+    <string name="exercise">Exercise</string>
+    <string name="feeling">Feeling</string>
+    <string name="labor">Labor</string>
+    <string name="this_information_is_for_reference_only_and_is_not_a_substitute_for_personalized_medical_advice_we_are_not_responsible_for_decisions_made_based_on_this_content">* This information is for reference only and is not a substitute for personalized medical advice. We are not responsible for decisions made based on this content.</string>
+    <string name="poppy_seed">Poppy seed</string>
+    <string name="sesame_seed">Sesame seed</string>
+    <string name="lentil">Lentil</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="kidney_beans">Kidney Beans</string>
+    <string name="grape">Grape</string>
+    <string name="kumquat">Kumquat</string>
+    <string name="fig">Fig</string>
+    <string name="lime">Lime</string>
+    <string name="peapod">Peapod</string>
+    <string name="lemon">Lemon</string>
+    <string name="apple">Apple</string>
+    <string name="avocado">Avocado</string>
+    <string name="turnip">Turnip</string>
+    <string name="pepper">Pepper</string>
+    <string name="tomato">Tomato</string>
+    <string name="banana">Banana</string>
+    <string name="carrot">Carrot</string>
+    <string name="zucchini">Zucchini</string>
+    <string name="mango">Mango</string>
+    <string name="corn">Corn</string>
+    <string name="Lettuce">lettuce</string>
+    <string name="cauliflower">Cauliflower</string>
+    <string name="aubergine">Aubergine</string>
+    <string name="papaya">Papaya</string>
+    <string name="butternut_squash">Butternut squash</string>
+    <string name="cabbage">Cabbage</string>
+    <string name="coconut">Coconut</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="pomelo">Pomelo</string>
+    <string name="cantaloupe">Cantaloupe</string>
+    <string name="napa_cabbage">Napa cabbage</string>
+    <string name="winter_melon">Winter melon</string>
+    <string name="leek">leek</string>
+    <string name="watermelon">Watermelon</string>
+    <string name="pumpkin">Pumpkin</string>
+    <string name="nutrition_html_1"><![CDATA[
+<h3><font color="#D47173">What to Eat for a Healthy Baby &a Glowing Mom</font></h3>
+
+<p><font color="#676F79">Being pregnant doesn’t mean you have to “eat for two.” Choosing the right foods can help your baby grow strong while keeping your post-pregnancy body easier to manage. Here are 5 simple, low-fat, nutrient-packed meals that are perfect for the second and third trimesters:</font></p>
+
+<p><font color="#1E293B"><b>1. Oatmeal with Egg and Veggies</b></font><br/>
+<font color="#676F79">Packed with fiber, iron, and protein — keeps you full longer, aids digestion, and helps prevent constipation.</font></p>
+
+<p><font color="#1E293B"><b>2. Pan-Seared Chicken Breast with Steamed Sweet Potatoes</b></font><br/>
+<font color="#676F79">Lean meat gives you high-quality protein with minimal fat. Sweet potatoes provide slow-releasing carbs for stable energy.</font></p>
+
+<p><font color="#1E293B"><b>3. Pumpkin Soup with Bone Broth or Green Mung Beans</b></font><br/>
+<font color="#676F79">Rich in vitamin A to support baby’s eye development. Pumpkin also helps promote better sleep for moms.</font></p>
+
+<p><font color="#1E293B"><b>4. Shrimp + Avocado + Mixed Greens Salad</b></font><br/>
+<font color="#676F79">A great source of omega-3s, healthy fats, and vitamin E — great for both baby’s brain and mom’s skin.</font></p>
+
+<p><font color="#1E293B"><b>5. Banana Smoothie with Chia Seeds and Nut Milk</b></font><br/>
+<font color="#676F79">A light drink that satisfies sweet cravings while supporting digestion and keeping you energized.</font></p>
+
+<p><font color="#1E293B"><b>Tip:</b></font> <font color="#676F79">Craving fried or sugary snacks? Try ripe fruits, unsweetened yogurt, or baked rice crackers instead — satisfying and much lower in empty calories.</font></p>
+
+
+<p><font color="#676F79">Eating smart is the first gift you give your baby. A healthy baby and a happy, confident mom — what could be better?</font></p>
+
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy">ACOG – Nutrition During Pregnancy</a><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471">Mayo Clinic – Pregnancy Week by Week</a></p>
+
+]]></string>
+
+    <string name="nutrition_html_2"><![CDATA[
+    <h3><font color="#D47173">Foods to Avoid During Pregnancy</font></h3>
+
+<p><font color="#676F79">Pregnancy changes everything — even your usual go-to foods might become off-limits. To keep both mom and baby safe, here’s a list of foods to completely avoid or limit as much as possible:</font></p>
+
+<p><font color="#1E293B"><b>1. Raw or Undercooked Meat and Fish</b></font><br/>
+<font color="#676F79">Sushi, rare steak, ceviche, and similar dishes may contain harmful bacteria or parasites. These can increase the risk of miscarriage or affect fetal development.</font></p>
+
+<p><font color="#1E293B"><b>2. Unpasteurized Soft Cheeses</b></font><br/>
+<font color="#676F79">Cheeses like camembert, brie, and feta (if unpasteurized) may carry Listeria, a bacteria especially dangerous during pregnancy.</font></p>
+
+<p><font color="#1E293B"><b>3. Coffee, Soft Drinks, and Strong Tea</b></font><br/>
+<font color="#676F79">High caffeine intake has been linked to preterm birth and low birth weight. Soda adds excess sugar and gas, raising the risk of gestational diabetes.</font></p>
+
+<p><font color="#1E293B"><b>4. Animal Liver and High-Dose Vitamin A</b></font><br/>
+<font color="#676F79">The liver is rich in vitamin A — but too much can cause birth defects. Always check with your doctor before taking vitamin A supplements.</font></p>
+
+<p><font color="#1E293B"><b>5. Alcoholic Beverages</b></font><br/>
+<font color="#676F79">There is no known safe amount of alcohol during pregnancy. It can harm your baby’s brain development and physical health.</font></p>
+
+<p><font color="#1E293B"><b>Golden rule:</b></font> <font color="#676F79">Eat thoroughly cooked foods, drink boiled or filtered water, and always read ingredient labels carefully. A little extra caution goes a long way toward peace of mind over these 9 magical months.</font></p>
+
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/">NHS UK – Foods to Avoid in Pregnancy</a><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471">Mayo Clinic – Pregnancy Week by Week</a><br/>
+<a href="https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy">ACOG – Nutrition During Pregnancy</a></p>
+
+    ]]></string>
+
+    <string name="nutrition_html_3"><![CDATA[
+<h3><font color="#D47173">7 Healthy Treats for Each Trimester</font></h3>
+
+<p><font color="#676F79">Pregnancy often comes with sudden hunger, fatigue, and nausea — but don’t worry, smart snacking can help! Eating the right mini-meals between your main meals keeps your energy up, eases morning sickness, and adds essential nutrients without causing unnecessary weight gain.</font></p>
+
+<p><font color="#1E293B"><b>First Trimester – Fight nausea, keep it light</b></font></p>
+<p><font color="#676F79">Plain crackers<br/>
+Low-sugar yogurt<br/>
+Lightly sour fruits (like guava, orange, green apple)</font></p>
+
+<p><font color="#1E293B"><b>Second Trimester – Boost nutrients, ease digestion</b></font></p>
+<p><font color="#676F79">Walnuts or almonds<br/>
+Plant-based milk (like almond or soy)<br/>
+Banana or avocado on whole grain toast</font></p>
+
+<p><font color="#1E293B"><b>Third Trimester – Support sleep, stay comfortable</b></font></p>
+<p><font color="#676F79">Fruit smoothie with oats<br/>
+Steamed sweet potato<br/>
+Brown rice crackers or a warm bowl of porridge</font></p>
+
+<p><font color="#1E293B"><b>Quick Tip:</b></font> <font color="#676F79">Never skip snacks — but don’t overdo them either. A small portion every 2–3 hours is ideal to keep both mom and baby feeling great.</font></p>
+
+<p><font color="#676F79">Main meals build the foundation, but snacks are the secret weapon to staying strong and glowing all pregnancy long!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/basics/healthy-pregnancy/hlv-20049471">Mayo Clinic – Pregnancy Week by Week</a><br/>
+<a href="https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy">ACOG – Nutrition During Pregnancy</a></p>
+     ]]></string>
+
+    <string name="nutrition_html_4"><![CDATA[
+<h3><font color="#D47173">Cravings During Pregnancy: Give In or Let It Go?</font></h3>
+
+<p><font color="#676F79">Pregnancy cravings can get weird — suddenly you’re dreaming about sour mangoes, sweet treats, or even ice cubes! Don’t worry — it’s totally normal.</font></p>
+
+<p><font color="#676F79">According to the American Pregnancy Association, hormonal changes during pregnancy can heighten your senses of taste and smell, especially in the first and third trimesters. Nutrient deficiencies (like iron, calcium, or zinc) can also trigger cravings for unexpected foods.</font></p>
+
+<p><font color="#676F79">So, how should you handle them?</font></p>
+
+<p><font color="#1E293B"><b>Understand Your Cravings:</b></font></p>
+
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Craving sour foods:</b></font><font color="#676F79"> (like green mango, tamarind): This might be your body asking for more vitamin C. Go for fresh fruits or lightly salted options instead of heavily pickled snacks that are high in salt and sugar.</font></p>
+
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Craving sweets?</b></font> <font color="#676F79">It could mean a dip in energy. Instead of reaching for candy, try bananas, unsweetened yogurt, or dried nuts for a healthy, satisfying boost.</font></p>
+
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Craving ice or cold things?</b></font><font color="#676F79"> This might be a sign of iron deficiency (known as pica). It’s best to talk to your doctor and get the right supplements if needed.</font></p>
+
+<p><font color="#1E293B"><b>But don’t give in every time:</b></font> <font color="#676F79">Some cravings are for unhealthy options like deep-fried snacks, fast food, or sugary drinks. Indulging too often can lead to excessive weight gain, gestational diabetes, or affect your baby’s development.</font></p>
+
+<p><font color="#1E293B"><b>Tips to stay in control:</b></font></p>
+<p><font color="#676F79">
+Eat small meals every 2–3 hours to prevent intense hunger.<br/>
+Stay hydrated — sometimes thirst disguises itself as hunger.<br/>
+Keep healthy snacks nearby: fruit, oat cookies, or lightly salted cashews.
+</font></p>
+
+<p><font color="#1E293B"><b>Bottom line:</b></font> <font color="#676F79">You don’t have to say no to every craving. Just listen to your body smartly. Every bite you choose is a step toward caring for your baby — from the very beginning.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://americanpregnancy.org/">American Pregnancy Association - Food Cravings During Pregnancy</a><br/>
+<a href="https://www.cdc.gov/nutrition/php/about/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnutrition%2Findex.html">Centers for Disease Control and Prevention (CDC) - Pregnancy and Nutrition</a></p>
+     ]]></string>
+    <string name="nutrition_html_5"><![CDATA[
+<h3><font color="#D47173">5. Top 10 “Golden” Fruits for Expecting Moms</font></h3>
+
+<p><font color="#676F79">Fruits are a mom-to-be’s best friend — tasty, easy to digest, rich in vitamins and fiber, and great for boosting immunity for both mom and baby. Here are 10 must-have fruits during pregnancy, broken down by trimester:</font></p>
+
+<p><font color="#1E293B"><b>1st Trimester (Weeks 1–12) – Beat nausea, boost vitamins</b></font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Banana:</b></font><font color="#676F79"> Packed with potassium — helps ease nausea and regulate blood pressure.</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Oranges & tangerines:</b></font><font color="#676F79"> High in vitamin C — helps with iron absorption and boosts immunity.</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Apples:</b></font><font color="#676F79"> Full of fiber, great for digestion.</font></p>
+<p><font color="#676F79">Best eaten in the morning or between meals to avoid bloating.</font></p>
+
+<p><font color="#1E293B"><b>2nd Trimester (Weeks 13–27) – Build tissues & immunity</b></font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Avocado:</b></font><font color="#676F79"> Rich in folate, vitamin E, and healthy fats — great for baby’s brain development.</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Kiwi:</b></font><font color="#676F79"> High in vitamin C and K — helps iron absorption and supports natural blood clotting.</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Pomegranate:</b></font><font color="#676F79"> Full of antioxidants and iron — helps prevent pregnancy anemia.</font></p>
+<p><font color="#676F79">Ideal for a mid-afternoon snack to keep energy up.</font></p>
+
+<p><font color="#1E293B"><b>3rd Trimester (Weeks 28–40) – Get ready for labor</b></font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Ripe papaya:</b></font><font color="#676F79"> Aids digestion and relieves constipation (avoid unripe papaya).</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Watermelon:</b></font><font color="#676F79"> Hydrating and cooling.</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Ripe mango:</b></font><font color="#676F79"> Rich in beta-carotene — supports baby’s skin and eye development.</font></p>
+<p><font color="#1E293B"><b>&nbsp;&nbsp;&nbsp;&nbsp;• Pear:</b></font><font color="#676F79"> Low in sugar, high in fiber — helps manage weight gain.</font></p>
+<p><font color="#676F79">Great as a light evening snack or dessert option.</font></p>
+
+<p><font color="#1E293B"><b>Quick Tips:</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;•</font><font color="#676F79"> 2–3 servings of fruit per day is ideal</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;•</font><font color="#676F79"> Wash thoroughly, choose seasonal and organic when possible</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;•</font><font color="#676F79"> Go easy on fruit juices — they lack fiber and often contain too much sugar</font></p>
+
+<p><font color="#676F79">A simple, colorful fruit habit each day can make a big difference for a healthy, happy pregnancy!</font></p>
+
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.healthline.com/health/pregnancy/best-fruits-to-eat"> American Pregnancy Association - Fruits to eat during pregnancy</a><br/>
+<a href="http://www.myplate.gov">USDA - MyPlate for Pregnant Women</a><br/>
+
+     ]]></string>
+
+    <string name="baby_html_1"><![CDATA[
+<h3><font color="#D47173">The Fetal Journey in the First 12 Weeks</font></h3>
+
+<p><font color="#676F79">People often call the baby in the womb a “little bean” — because in those first 12 weeks, the baby is just a few centimeters long. But surprisingly, even at that tiny size, the baby’s body is already starting to form all the incredible parts of a human being: the heart, brain, spine, arms, legs — even facial features are beginning to take shape. The heart starts beating around week 6, like a whisper from your baby to you for the very first time.</font></p>
+
+<p><font color="#676F79">For the mother, this is the stage of the most intense physical and emotional changes. Nausea, fatigue, heightened sensitivity to smells, or suddenly bursting into tears… these are all perfectly normal. It’s your pregnancy hormones — especially hCG and progesterone — working hard to support your growing baby and keep the pregnancy stable. Morning sickness isn’t a bad sign — it’s your body’s way of saying: "I’m creating a new life".</font></p>
+
+<p><font color="#676F79">These first 12 weeks can be tiring, but they’re also when you feel most deeply that a miracle is growing inside you. And if you ever feel exhausted, don’t worry — your baby is thanking you with every tiny, resilient heartbeat.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://my.clevelandclinic.org/health/articles/7247-fetal-development-stages-of-growth?">Cleveland Clinic - Fetal Development: First Trimester</a><br/>
+<a href="https://my.clevelandclinic.org/health/articles/9699-first-trimester">Mayo Clinic - First trimester pregnancy: What to expect</a><br/>
+<a href="https://clearwayclinic.com/fetal-development/">Clearway Clinic - Fetal Development</a><br/>
+    ]]></string>
+
+    <string name="baby_html_2"><![CDATA[
+<h3><font color="#D47173">Feeling Baby’s First Kicks</font></h3>
+
+<p><font color="#676F79">That very first flutter from your baby — known as quickening — is a magical milestone. It’s like a sweet hello from the little life growing inside you, a moment that many parents never forget.</font></p>
+
+<p><font color="#1E293B"><b>When will you feel it?</b></font></p>
+<p><font color="#1E293B"><b>• First pregnancy:</b></font><font color="#676F79"> Most moms start feeling movement between weeks 20–24, but some may notice it as early as week 16, especially if they’re very in tune with their bodies.</font></p>
+<p><font color="#1E293B"><b>• Second (or later) pregnancy:</b></font><font color="#676F79"> Moms often feel movement earlier, around weeks 16–20, since the uterus is already familiar with what to expect.</font></p>
+
+<p><font color="#1E293B"><b>What does quickening feel like?</b></font></p>
+<p><font color="#676F79">It’s super subtle at first — like tiny flutters, bubbles, or soft taps just below your belly button. Some describe it like a butterfly’s wings brushing inside. Over time, it becomes more noticeable and defined.</font></p>
+
+<p><font color="#1E293B"><b>First baby vs. second baby — what’s the difference?</b></font></p>
+<p><font color="#1E293B"><b>• First baby:</b></font><font color="#676F79"> Kicks are usually felt around 18–20 weeks at the earliest.</font></p>
+<p><font color="#1E293B"><b>• Second baby and beyond:</b></font><font color="#676F79"> Moms may feel movement as early as 13–16 weeks.</font></p>
+
+<p><font color="#1E293B"><b>Tips to track baby’s movements:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Pick a time when your baby tends to be most active — often after meals or when you’re relaxing.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Pay close attention: kicks, flutters, or even little hiccups all count.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Once you start noticing regular movement, try this simple check from week 28 onward: aim for 10 movements within 2 hours.</font></p>
+
+<p><font color="#676F79">If you notice a big drop in movement or feel unsure, don’t hesitate to reach out to your doctor.</font></p>
+
+<p><font color="#676F79">Your baby’s kicks are more than cute — they’re a sign that little one is growing strong and healthy inside you.</font></p>
+
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.thebump.com/a/when-will-i-feel-baby-kick">The Bump - Quickening in Pregnancy: When Can You Feel Baby Move and Kick</a><br/>
+<a href="https://my.clevelandclinic.org/health/symptoms/22829-quickening-in-pregnancy">Cleveland Clinic, Quickening in Pregnancy</a><br/>
+<a href="https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/first-fetal-movement">American Pregnancy Association, First Fetal Movement: Quickening in Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="baby_html_3"><![CDATA[
+<h3><font color="#D47173">Baby Hiccups in the Womb</font></h3>
+
+<p><font color="#676F79">Somewhere between weeks 16 to 24 of pregnancy, many moms start feeling gentle, rhythmic “twitches” in their belly. Surprise — your baby is hiccupping! And yes, it’s completely normal (and pretty adorable).</font></p>
+
+<p><font color="#1E293B"><b>Why do babies hiccup in the womb?</b></font></p>
+<p><font color="#676F79">These little spasms are caused by tiny contractions of the diaphragm as your baby practices “breathing” by inhaling and exhaling amniotic fluid. It’s part of developing strong lungs and a healthy vagus nerve — which helps regulate their breathing and digestion after birth.</font></p>
+
+<p><font color="#1E293B"><b>When do hiccups usually start?</b></font></p>
+<p><font color="#676F79">Most moms first notice hiccups between weeks 16 and 24. As your baby grows, especially into the third trimester, these hiccups can become more noticeable — and sometimes more frequent.</font></p>
+
+<p><font color="#1E293B"><b>Hiccups vs. Kicks — What’s the difference?</b></font></p>
+<p><font color="#1E293B"><b>• Hiccups:</b></font><font color="#676F79"> soft, rhythmic, and consistent — often happening in the same spot, like a gentle, repetitive "bip."</font></p>
+<p><font color="#1E293B"><b>• Kicks or movement:</b></font><font color="#676F79"> stronger, more random, changing in location and intensity.</font></p>
+
+<p><font color="#1E293B"><b>Should I be worried?</b></font></p>
+<p><font color="#676F79">Nope — hiccups in the womb are usually a great sign that your baby is developing well, especially their lungs and nervous system. However, if hiccups happen too often (like daily and lasting more than 15 minutes) especially after week 32, it’s a good idea to check in with your doctor — just to rule out any rare issues with the placenta or umbilical cord.</font></p>
+
+<p><font color="#1E293B"><b>A few tips for moms:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Just sit back and enjoy the moment — hiccups usually go away on their own.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• No need to stop them — they’re totally safe.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• If anything feels off, trust your gut and talk to your OB.</font></p>
+
+<p><font color="#1E293B"><b>Remember:</b></font> <font color="#676F79">Baby hiccups often start in the second trimester and become more noticeable in the third.<br/>
+They’re gentle, rhythmic, and normal — unlike strong, irregular kicks.<br/>
+And while they’re usually harmless, always check in if something doesn’t feel right.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.medicalnewstoday.com/articles/322372">Medical News Today, What causes hiccups in babies in the womb</a><br/>
+<a href="https://www.parents.com/pregnancy/stages/is-it-normal-to-feel-baby-movement-in-vaginal-area">Parents, Normal Fetal Movement During Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="baby_html_4"><![CDATA[
+<h3><font color="#D47173">Unpacking How Your Baby’s Gender Is Determined</font></h3>
+
+<p><font color="#676F79">From the very first moment the egg and sperm meet, your baby’s gender is already set! But while the decision’s been made at the cellular level, you’ll have to wait a little longer to find out whether you’re having a little prince or princess via ultrasound.</font></p>
+
+<p><font color="#1E293B"><b>When is your baby’s gender determined?</b></font></p>
+<p><font color="#676F79">Gender is decided at the moment of conception, when the mother’s egg (which always carries an X chromosome) is fertilized by the father’s sperm — which can carry either an X or a Y chromosome.</font></p>
+
+<p><font color="#1E293B"><b>If the sperm carries an X →</b></font><font color="#676F79"> it’s a girl (XX)</font><br/>
+<font color="#1E293B"><b>If the sperm carries a Y →</b></font><font color="#676F79"> it’s a boy (XY)</font></p>
+
+<p><font color="#676F79">So yep — it’s actually the dad who determines the baby’s gender, not the mom!</font></p>
+
+<p><font color="#1E293B"><b>When can you find out the gender?</b></font></p>
+<p><font color="#676F79">Even though gender is set early on, the baby’s genitals don’t fully form until around weeks 11 to 14.<br/>
+From about week 16 to 20, an ultrasound can usually reveal the gender with about 85–95% accuracy, depending on your baby’s position.<br/>
+If you’re getting routine prenatal checkups during this stage, your doctor can likely give you the news — if you want to know!</font></p>
+
+<p><font color="#1E293B"><b>A few fun facts:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• No food, trick, or old wives’ tale can change your baby’s gender after conception — your baby’s DNA is already locked in.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Genetics may play a role — some families do seem to have more boys or more girls — but it’s all a matter of chance, not a fixed rule.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Want to know early? A non-invasive prenatal test (NIPT) can detect the baby’s DNA in your blood as early as the first trimester, and often tells you the gender with high accuracy (even before week 12).</font></p>
+
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-testing/art-20045177">Mayo Clinic - Prenatal testing: Is it right for me</a><br/>
+<a href="https://my.clevelandclinic.org/health/diagnostics/9704-ultrasound-in-pregnancy">Cleveland Clinic - Ultrasound in Pregnancy</a><br/>
+    ]]></string>
+    <string name="baby_html_5"><![CDATA[
+<h3><font color="#D47173">Signs of Preterm Labor and How to Prepare</font></h3>
+
+<p><font color="#676F79">Preterm birth happens when a baby is born before 37 weeks of pregnancy. It’s more common than you might think — but with early detection and proper care, both mom and baby can still be safe and healthy.</font></p>
+
+<p><font color="#1E293B"><b>Some signs of preterm labor include:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Regular contractions<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Lower back pain<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• A heavy feeling in the lower abdomen<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Increased vaginal discharge (especially if it’s pinkish or watery)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Pelvic pressure</font></p>
+<p><font color="#676F79">If you notice any of these, it’s important to see your doctor right away.</font></p>
+
+<p><font color="#1E293B"><b>What causes preterm labor?</b></font></p>
+<p><font color="#676F79">Preterm labor can be caused by carrying multiples, a history of preterm birth, infections, a weak cervix, or long-term stress. Unhealthy lifestyle habits like smoking or high caffeine intake can also increase the risk.</font></p>
+
+<p><font color="#1E293B"><b>What should moms do?</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Get plenty of rest and avoid heavy lifting<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Attend all prenatal checkups, especially after week 24<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Ensure a well-balanced diet: iron, calcium, DHA, folic acid<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Stay hydrated and keep stress levels low</font></p>
+<p><font color="#676F79">Whether your baby arrives early or right on time, the most important thing is to be well cared for — and never ignore the warning signs.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-testing/art-20045177">Mayo Clinic - Prenatal testing: Is it right for me</a><br/>
+<a href="https://my.clevelandclinic.org/health/diagnostics/9704-ultrasound-in-pregnancy">Cleveland Clinic - Ultrasound in Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="exercise_html_1"><![CDATA[
+<h3><font color="#D47173">5 Gentle Moves to Keep Your Pregnancy Healthy Every Day</font></h3>
+
+<p><font color="#676F79">Even when you’re pregnant, gentle daily movement can do wonders for your body and mind — and it’s great for your baby’s development too. Here are 5 simple exercises you can start today, right at home:</font></p>
+
+<p><font color="#1E293B"><b>1. Slow walking (10–20 minutes a day)</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;All you need is a comfy pair of shoes. Walk around your house, garden, or even your apartment hallway. Walking boosts circulation, helps you sleep better, and lowers the risk of gestational diabetes.</font></p>
+
+<p><font color="#1E293B"><b>2. Prenatal yoga</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Gentle poses like cat-cow or child’s pose can ease back pain, relax your pelvic area, and make breathing easier. Choose a prenatal yoga class or follow videos designed for your pregnancy stage.</font></p>
+
+<p><font color="#1E293B"><b>3. Light stretching</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;A few stretches for your arms, shoulders, neck, and legs each morning can ease stiffness and help prevent cramps. No need for long sessions — just a few minutes daily works wonders.</font></p>
+
+<p><font color="#1E293B"><b>4. Kegel exercises</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Tighten and release your pelvic floor muscles to help control your bladder, lower the chance of leaks after birth, and make vaginal delivery a bit easier. These take just a few minutes and can be done anytime, anywhere.</font></p>
+
+<p><font color="#1E293B"><b>5. Deep breathing and gentle meditation</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Sit quietly for 5–10 minutes each day and focus on slow, steady breaths. This helps calm your mind, steady your heartbeat, and lets your baby feel a peaceful environment from the inside.</font></p>
+
+<p><font color="#1E293B"><b>Remember:</b></font> <font color="#676F79">The key is gentle and consistent. A little bit every day keeps you feeling stronger and helps your baby feel your tender care from within. If you have any special health concerns, always check with your doctor before starting any new exercise.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.acog.org/womens-health/faqs/exercise-during-pregnancy">ACOG - Exercise During Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="exercise_html_2"><![CDATA[
+<h3><font color="#D47173">2. “Do’s and Don’ts” for Exercising During Pregnancy</font></h3>
+
+<p><font color="#676F79">Exercising the right way keeps you healthy, makes delivery smoother, and helps you bounce back faster after birth. But not every workout is safe during pregnancy. Here’s what you should and shouldn’t do:</font></p>
+
+<p><font color="#1E293B"><b>✅ Safe activities:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Gentle walking, prenatal yoga, swimming, or using a stationary bike — these help relieve aches, keep your weight in check, and boost blood circulation.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Kegel exercises: Strengthen your pelvic floor muscles, making delivery easier and helping prevent leaks after birth.</font></p>
+
+<p><font color="#1E293B"><b>❌ Activities to avoid:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• High-impact running, jumping rope, or jumping exercises: These can increase the risk of falls, injuries, or early contractions.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Contact sports (like soccer or basketball): There’s a high chance of getting hit in the belly, which can harm your baby.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Planking too long or lifting heavy weights: These put too much strain on your core and lower back, raising the risk of back pain or hernias.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Scuba diving, high-altitude hiking, or working out in hot, stuffy places: These can lead to low oxygen levels or dehydration — both unsafe for your baby.</font></p>
+
+<p><font color="#1E293B"><b>Important reminder:</b></font></p>
+<p><font color="#676F79">If you feel dizzy, have belly pain, bleeding, or trouble breathing while exercising, stop immediately and call your doctor. Always keep pregnancy workouts gentle and suited to your body and stage of pregnancy.</font></p>
+
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://my.clevelandclinic.org/-/scassets/files/org/obgyn/healthy-pregnancy-guide-20.pdf">Cleveland Clinic - YOUR GUIDE TO Healthy Pregnancy</a><br/>
+<a href="https://www.nhs.uk/pregnancy/keeping-well/exercise/">NHS UK - Exercise in pregnancy</a><br/>
+    ]]></string>
+
+    <string name="exercise_html_3"><![CDATA[
+<h3><font color="#D47173">Prenatal Yoga and its Benefits</font></h3>
+
+<p><font color="#676F79">Prenatal yoga isn’t just about relaxing — it comes with plenty of practical benefits throughout your pregnancy:</font></p>
+
+<p><font color="#1E293B"><b>Benefits of prenatal yoga:</b></font></p>
+<p><font color="#1E293B"><b>• Relieves back and pelvic pain</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Simple poses like Cat–Cow and Child’s Pose stretch your spine and ease tension in your lower back — a common sore spot for nearly two-thirds of moms-to-be.</font></p>
+
+<p><font color="#1E293B"><b>• Improves sleep & reduces stress</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Mindful breathing and gentle relaxation help you fall asleep easier and calm your mind. Studies even show that prenatal yoga can lower the risk of prenatal depression.</font></p>
+
+<p><font color="#1E293B"><b>• Builds strength & flexibility</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Yoga gently strengthens your core, hips, and legs, keeping you flexible and better prepared for labor.</font></p>
+
+<p><font color="#1E293B"><b>• Nurtures your mind & bond with baby</b></font><br/>
+<font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;Light meditation and breath work help you tune in to your baby’s movements, deepening your connection from the inside out.</font></p>
+
+<p><font color="#1E293B"><b>Safety tips:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Start after your first trimester (around week 12) or once your doctor says it’s safe.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Avoid hot yoga, deep forward bends, or strong twists around the belly.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Stop if you feel dizzy, short of breath, or have unusual pain — and check with your doctor.</font></p>
+
+<p><font color="#676F79">Just a few gentle poses each day can ease aches, improve your sleep, and soothe your mind. Plus, yoga is a wonderful way to prepare yourself physically and emotionally for the big day ahead.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.parents.com/pregnancy/my-body/aches-pains/pregnancy-back-pain-remedies/">Parents - 14 Pregnancy Back Pain Relief Strategies</a><br/>
+<a href="https://www.healthline.com/health/fitness/prenatal-yoga-poses">Healthline - Prenatal Yoga Poses for Every Trimester</a><br/>
+    ]]></string>
+
+    <string name="exercise_html_4"><![CDATA[
+<h3><font color="#D47173">A Safe Workout Guide for Every Stage of Pregnancy</font></h3>
+
+<p><font color="#676F79">Staying active the right way helps you stay healthy, supports your baby’s growth, and makes labor easier. Here’s a simple guide for each trimester:</font></p>
+
+<p><font color="#1E293B"><b>First trimester (0–12 weeks):</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Do:</b></font><font color="#676F79"> Gentle walks, light prenatal yoga, Kegel exercises to help stabilize the pregnancy.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Avoid:</b></font><font color="#676F79"> Intense jumping, heavy lifting.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Goal:</b></font><font color="#676F79"> Keep it light, avoid overexertion.</font></p>
+
+<p><font color="#1E293B"><b>Second trimester (13–27 weeks):</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Do:</b></font><font color="#676F79"> Brisk walking, prenatal yoga, gentle swimming — energy levels are usually higher now!</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Avoid:</b></font><font color="#676F79"> Lying flat on your back for too long (can affect circulation), contact sports.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Goal:</b></font><font color="#676F79"> Build endurance, relieve back pain.</font></p>
+
+<p><font color="#1E293B"><b>Third trimester (28–40 weeks):</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Do:</b></font><font color="#676F79"> Walking, light stretching, hip-opening yoga poses, breathing exercises to prep for birth.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Avoid:</b></font><font color="#676F79"> Long, tiring sessions, complex moves, or anything that affects your balance.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Goal:</b></font><font color="#676F79">Stay flexible and ready for labor.</font></p>
+
+<p><font color="#1E293B"><b>Remember:</b></font> <font color="#676F79">Aim for 15–30 minutes daily.<br/>
+Drink enough water, listen to your body, and stop if you feel dizzy or have unusual pain.<br/>
+Check with your doctor if you have any pregnancy risks.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.healthline.com/health/fitness/prenatal-yoga-poses">Healthline - Prenatal Yoga Poses for Every Trimester</a><br/>
+    ]]></string>
+
+    <string name="exercise_html_5"><![CDATA[
+<h3><font color="#D47173">A Simple Daily Routine to Help You Sleep Well and Ease Body Aches</font></h3>
+
+<p><font color="#676F79">You don’t need heavy workouts during pregnancy — just 15 minutes a day is enough to stay healthy, reduce soreness, and sleep better. Here’s an easy routine for each stage:</font></p>
+
+<p><font color="#1E293B"><b>First trimester (Weeks 1–12)</b></font></p>
+<p><font color="#676F79">This is when fatigue and nausea are common, so keep it gentle.</font><br/>
+<font color="#1E293B"><b>Best time:</b> Early morning or late afternoon.<br/>
+<font color="#1E293B"><b>Good exercises:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Slow walk around the house (10 minutes)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Gentle neck, shoulder, and back stretches<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• 3–5 minutes of deep breathing and relaxation</font></p>
+
+<p><font color="#1E293B"><b>Second trimester (Weeks 13–27)</b></font></p>
+<p><font color="#676F79">This is usually the most comfortable stage — keep moving regularly.</font><br/>
+<font color="#1E293B"><b>Best time:</b></font> About 30 minutes after eating, or before bedtime.<br/>
+<font color="#1E293B"><b>Good exercises:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Basic prenatal yoga (arms, legs, back)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Gentle joint rotations<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Walking 15–20 minutes a day</font></p>
+
+<p><font color="#1E293B"><b>Third trimester (Weeks 28–birth)</b></font></p>
+<p><font color="#676F79">With a bigger belly and more aches, movement helps blood flow, reduces swelling, and improves sleep.</font><br/>
+<font color="#1E293B"><b>Best time:</b> Cool mornings or evenings.<br/>
+<font color="#1E293B"><b>Good exercises:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Gentle back stretches, hip rotations while sitting<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• 5–10 minutes of deep breathing or light meditation<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Slow walk and leg elevation after exercise</font></p>
+
+<p><font color="#676F79">A little bit every day keeps your body flexible, makes labor easier, and lets your baby relax along with you!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.parents.com/pregnancy/my-body/fitness/easy-pregnant-walking-workouts/">Parents - Pregnancy Walking Workouts for Every Trimester and Fitness Level</a><br/>
+<a href="https://www.acog.org/womens-health/faqs/exercise-during-pregnancy">ACOG - Exercise During Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="feeling_html_1"><![CDATA[
+<h3><font color="#D47173">10 Common Pregnancy Worries & How to Stay Calm</font></h3>
+
+<p><font color="#676F79">Pregnancy is a beautiful journey — but it can also bring lots of worries. Many moms-to-be fear miscarriage, birth defects, difficult labor, not producing enough milk, or having a baby who’s underweight. Money, work, and how to care for a newborn can also feel overwhelming. Most of these worries come from hormonal changes and sometimes from reading too much inaccurate information.</font></p>
+
+<p><font color="#1E293B"><b>What can help:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Keep up with regular check-ups and important tests — they’ll give you peace of mind about your baby’s health.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Talk openly with your doctor, partner, or family. Sharing your feelings helps ease stress.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Be careful with random information online. Trust your healthcare provider first.</font></p>
+
+<p><font color="#1E293B"><b>When to reach out for extra help:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• If you often feel sad, lose interest in things you usually enjoy, can’t sleep, or have negative thoughts, please don’t hesitate to talk to a mental health professional or your doctor.</font></p>
+
+<p><font color="#1E293B"><b>Remember:</b></font> <font color="#676F79">You’re not alone! Your family, doctors, pregnancy support groups, and caring experts are always ready to listen. Take a deep breath, trust your amazing body, and know you’ve got this, mama!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.nhs.uk/pregnancy/">NHS UK - Pregnancy</a><br/>
+<a href="https://americanpregnancy.org/category/healthy-pregnancy/pregnancy-concerns/">American Pregnancy Association - Pregnancy Concerns</a><br/>
+    ]]></string>
+
+    <string name="feeling_html_2"><![CDATA[
+<h3><font color="#D47173">Pregnancy Brain & Emotional Ups and Downs</font></h3>
+
+<p><font color="#676F79">Pregnancy often brings what many moms jokingly call “pregnancy brain” — feeling forgetful, distracted, or struggling to focus. Don’t worry — it doesn’t mean you’re less smart! This happens because pregnancy hormones, especially progesterone and estrogen, surge dramatically and can slow down how your brain processes things.</font></p>
+
+<p><font color="#676F79">Other culprits include feeling tired, poor sleep, and everyday stress, which can make you feel more absent-minded or moody. It’s normal to feel a bit irritable or short-tempered — and thankfully, these feelings usually don’t last forever.</font></p>
+
+<p><font color="#1E293B"><b>Smart ways to cope:</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Take notes & set reminders:</b></font><font color="#676F79">Use your phone or a small notebook to jot down things you need to remember.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Share the load:</b></font><font color="#676F79"> Don’t be shy to ask your partner or family for help with chores or errands.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Rest well:</b></font><font color="#676F79">Try to get enough sleep; if you’re really tired, take a short nap and avoid pushing yourself too hard.</font></p>
+
+<p><font color="#676F79">If you feel unusually forgetful, struggle to get through daily tasks, or notice your mood slipping into deep sadness or frustration, it might be more than just “pregnancy brain.” In that case, talk to your doctor or a mental health professional for extra support.</font></p>
+
+<p><font color="#1E293B"><b>Remember:</b></font> <font color="#676F79">“Pregnancy brain” is completely normal — it’s just your amazing body focusing energy on growing a baby. Keep writing things down, get your rest, and lean on loved ones. You’ve got this, mama!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.webmd.com/baby/features/memory_lapse_it_may_be_pregnancy_brain">WebMD - Pregnancy Brain: Myth or Reality</a><br/>
+    ]]></string>
+
+    <string name="feeling_html_3"><![CDATA[
+<h3><font color="#D47173">Tips For Better Sleep During Pregnancy</font></h3>
+
+<p><font color="#676F79">Pregnancy can make getting a good night’s sleep feel impossible — thanks to shifting hormones, a growing belly, more bathroom trips, and the dreaded backache. But don’t worry, mama — here’s how to rest better each night:</font></p>
+
+<p><font color="#1E293B"><b>Why is sleep so tricky during pregnancy?</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Hormonal changes can interrupt your sleep cycle and drain your energy.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• A bigger belly puts extra pressure on your lungs and bladder, so you wake up more often to pee and may struggle to find a comfy position.</font></p>
+
+<p><font color="#1E293B"><b>Best sleep positions by trimester</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• After 28 weeks, sleeping on your side — especially your left side — helps boost blood flow to your baby and reduces pressure on the main vein in your abdomen.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Try to avoid lying flat on your back for long periods, as it can limit circulation.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Early on, sleep in whatever position feels best — just make it easy to roll to your side later in pregnancy.</font></p>
+
+<p><font color="#1E293B"><b>The “golden hours”: when to sleep</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• Stick to a regular sleep schedule: going to bed and waking up at the same time every day helps your body clock stay balanced.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• A short nap (20–30 minutes) after lunch and before 3 p.m. can help you catch up on rest without messing up your nighttime sleep.</font></p>
+
+<p><font color="#676F79">With these simple tweaks, you’ll feel more refreshed, sleep more deeply, and stay energized to welcome your little one!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/tiredness/">NHS UK - Tiredness and sleep problems in pregnancy</a><br/>
+<a href="https://www.bradfordhospitals.nhs.uk/wp-content/uploads/2023/05/23042610-One-Sided-Sleep-in-Pregnancy.pdf">NHS UK - Sleep in Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="feeling_html_4"><![CDATA[
+<h3><font color="#D47173">Common Body Changes During Pregnancy & How to Care for Them</font></h3>
+
+<p><font color="#676F79">Pregnancy brings all sorts of body changes that can make any mom-to-be feel worried — but most of them are completely normal if you know how to care for yourself and when to check in with your doctor.</font></p>
+
+<p><font color="#1E293B"><b>What’s common?</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Itchy skin & stretch marks:</b></font><font color="#676F79"> Your skin stretches quickly as your belly grows.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Increased discharge:</b></font><font color="#676F79"> Hormonal shifts make the vaginal area more moist than usual.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Changes down there:</b> </font><font color="#676F79">It may look darker or feel a bit swollen — usually harmless.</font></p>
+
+<p><font color="#1E293B"><b>✅ What’s normal:</b></font> <font color="#676F79">White, mild-smelling discharge that’s a bit sticky or slippery.</font><br/>
+<font color="#1E293B"><b>❌ When to see a doctor:</b></font> <font color="#676F79">Bad odor, itching or burning, yellow-green color, or belly pain — these can signal an infection.</font></p>
+
+<p><font color="#1E293B"><b>Simple self-care tips</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Moisturize:</b> </font><font color="#676F79">Use a pregnancy-safe lotion to soothe itching and help prevent stretch marks.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Breathable underwear:</b> </font><font color="#676F79">Wear cotton panties and change them often to stay dry.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Gentle hygiene:</b> </font><font color="#676F79">Clean the area with mild soap, avoid deep washing or harsh products — use a safe intimate wash if needed.</font></p>
+
+<p><font color="#1E293B"><b>Watch your blood pressure</b></font></p>
+<p><font color="#676F79">Pregnancy can raise your blood pressure. If it’s over 140/90 mmHg and you also have swelling, severe headaches, or blurry vision — call your doctor right away. These can be signs of preeclampsia.</font></p>
+<p><font color="#1E293B"><b>What helps:</b></font><font color="#676F79"> Rest plenty, limit salty foods, drink enough water, and check your blood pressure regularly.</font></p>
+
+<p><font color="#1E293B"><b>Remember, mama:</b></font> <font color="#676F79">Most changes are completely natural. If something feels off, don’t hesitate to reach out to your doctor — peace of mind for you means health and safety for your little one too!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/vaginal-discharge/">NHS UK - Vaginal discharge in pregnancy</a><br/>
+    ]]></string>
+
+    <string name="feeling_html_5"><![CDATA[
+<h3><font color="#D47173">Understanding Pregnancy Aches & How to Relieve Them Safely</font></h3>
+
+<p><font color="#1E293B"><b>Why do moms-to-be often feel aches and pains?</b></font></p>
+<p><font color="#676F79">As your baby grows, your body has to stretch and adjust to support them. It’s very common to feel mild belly cramps, back pain, ligament pain, or nighttime leg cramps. The ligaments around your uterus stretch, your growing belly shifts your posture, and if you’re low on calcium, your muscles may cramp more easily — all of this can make you feel achy and sore.</font></p>
+
+<p><font color="#1E293B"><b>What kind of pain is normal?</b></font></p>
+<p><font color="#676F79">Mild, dull aches or occasional sharp twinges that ease up when you rest are usually nothing to worry about. But if you have severe belly pain, heavy bleeding, fever, dizziness, or fainting, see your doctor immediately to rule out any complications.</font></p>
+
+<p><font color="#1E293B"><b>Safe ways to ease the pain at home:</b></font></p>
+<p><font color="#676F79">&nbsp;&nbsp;&nbsp;&nbsp;• For back or ligament pain, try a warm (not hot) compress on the sore area — avoid placing heat directly on your belly.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Sleep on your left side with a pillow behind your back or between your legs for extra support.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Gentle stretching, prenatal yoga, and taking calcium as advised by your doctor can help you sleep better and prevent leg cramps.</font></p>
+
+<p><font color="#1E293B"><b>A gentle reminder:</b></font> <font color="#676F79">These little aches are normal companions on your pregnancy journey. Don’t stress — listen to your body and rest when you need to. And if anything feels unusual, trust your instincts and check in with your doctor for peace of mind.</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20046767">Mayo Clinic - 3rd trimester pregnancy: What to expect</a><br/>
+    ]]></string>
+
+    <string name="labor_html_1"><![CDATA[
+<h3><font color="#D47173">The Final Weeks: Excitement and Waiting for the Big Day</font></h3>
+
+<p><font color="#676F79">As you enter the last weeks of pregnancy, it’s completely normal to feel a mix of excitement and nervousness, wondering, “Is it time yet?” The truth is, your body will give you clear signs when your baby is getting ready to arrive. Knowing what to watch for can help you stay calm and prepare everything in advance.</font></p>
+
+<p><font color="#1E293B"><b>Key Signs That Labor Is Near</b></font></p>
+<p><font color="#676F79">Here are a few common signs that your due date is just around the corner:</font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Regular contractions:</b> </font><font color="#676F79">At first, contractions may feel mild and irregular, but true labor contractions gradually get stronger, last longer, and come at regular intervals. The time between them will get shorter as labor progresses.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Bloody show or mucus discharge:</b> </font><font color="#676F79">You might notice pinkish or mucus-like discharge. This means the mucus plug in your cervix is loosening as your body gets ready for birth.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Water breaking:</b></font><font color="#676F79"> You may feel a sudden warm gush of fluid that you can’t control — this is different from normal bladder leaks and means your amniotic sac has ruptured.</font></p>
+
+<p><font color="#1E293B"><b>How to Tell Real Labor from False Labor</b></font></p>
+<p><font color="#676F79">Many moms-to-be get confused between true labor and Braxton Hicks contractions (also called “practice contractions”). Braxton Hicks contractions tend to be irregular, mild, and often go away if you change positions or rest. Real labor contractions, on the other hand, keep getting stronger, more painful, and more regular — and they won’t stop, no matter how you move or lie down.</font></p>
+
+<p><font color="#1E293B"><b>When to Head to the Hospital</b></font></p>
+<p><font color="#676F79">If your contractions are regular and getting stronger, you notice a bloody show, or your water breaks, it’s time to grab your hospital bag and go. Having everything packed and your paperwork ready will help you feel more at ease and fully prepared to meet your little one at any moment!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/in-depth/signs-of-labor/art-20046184">Mayo Clinic - Signs of labor: Know what to expect</a><br/>
+    ]]></string>
+
+    <string name="labor_html_2"><![CDATA[
+<h3><font color="#D47173">Final Week Checklist: Be 100% Ready for Baby’s Arrival</font></h3>
+
+<p><font color="#1E293B"><b>Why Should You Prepare Ahead of Time?</b></font></p>
+<p><font color="#676F79">The last weeks of pregnancy often fly by faster than you expect — and sometimes, your little one might decide to come earlier than planned. Getting everything ready in advance will help you avoid stress if your water breaks suddenly or labor starts in the middle of the night. A simple, well-organized checklist keeps the whole family calm and ready to grab your bags and head to the hospital when it’s time!</font></p>
+
+<p><font color="#1E293B"><b>Three Bags Every Mom Should Pack</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Mom’s Bag:</b></font><font color="#676F79"> This is the most important one! Be sure to pack all your essential documents (prenatal check-up book, insurance card), a few sets of comfy clothes, maternity pads, a towel, toothbrush, and any personal items you need to feel clean and comfortable during your stay.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Baby’s Bag:</b></font><font color="#676F79"> Pack all the newborn essentials — diapers, soft baby clothes, a hat, mittens, socks, and a warm swaddle blanket so your baby stays cozy and clean from the very first moment.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Support Person’s Bag:</b></font><font color="#676F79"> This is for your partner or whoever will be with you at the hospital. Bring water, some snacks for long waits, a fully charged phone and charger, and a bit of cash in case you need to handle unexpected things.</font></p>
+
+<p><font color="#1E293B"><b>Other Important To-Dos</b></font></p>
+<p><font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Plan your ride:</b></font><font color="#676F79"> Double-check your family car or save the number of a trusted taxi service so you can get to the hospital quickly, day or night.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Arrange care for older siblings:</b></font><font color="#676F79"> If you have other kids, plan ahead for someone you trust to watch them when you go into labor.</font><br/>
+<font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Save key contacts:</b></font><font color="#676F79"> Make sure your doctor’s number, the hospital, and close family contacts are saved in your phone and written down somewhere, just in case your battery runs out.</font></p>
+
+<p><font color="#676F79">The more prepared you are, the more confident and relaxed you’ll feel. A packed bag, a few important phone numbers, and a clear plan will help you and your loved ones welcome your little angel with peace of mind, anytime!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.babycenter.com/pregnancy/your-body/packing-for-the-hospital-or-birth-center_185">Baby Center - Hospital bag checklist: What to pack for labor and postpartum</a><br/>
+    ]]></string>
+
+    <string name="labor_html_3"><![CDATA[
+<h3><font color="#D47173">Birth Plan: Write It to Feel More in Control</font></h3>
+
+<p><font color="#1E293B"><b>What is a Birth Plan and Why Have One?</b></font></p>
+<p><font color="#676F79">As the due date gets closer, it’s normal to feel nervous — especially for first-time moms. A birth plan is a short note of your wishes for labor and delivery. It’s not a strict rule, but a helpful guide so your family and medical team know what you want and can support you better.</font></p>
+
+<p><font color="#1E293B"><b>What to Include in Your Birth Plan</b></font></p>
+<p>
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Delivery type:</b></font>
+  <font color="#676F79"> Do you want a natural birth or a planned C-section?</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Pain relief:</b></font>
+  <font color="#676F79"> Do you prefer an epidural, spinal block, or minimal pain meds?</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Baby care right after birth:</b></font>
+  <font color="#676F79"> Who will cut the cord? Do you want skin-to-skin contact? Will you breastfeed immediately or pump?</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Special wishes:</b></font>
+  <font color="#676F79"> For example, do you want your partner in the room the whole time?</font>
+</p>
+
+<p><font color="#1E293B"><b>Talk It Through with Your Partner and Doctor</b></font></p>
+<p><font color="#676F79">A good plan works best when everyone is on the same page. Discuss it with your partner and doctor ahead of time. Your doctor can explain what’s possible and make sure your plan is safe for you and your baby.</font></p>
+
+<p><font color="#1E293B"><b>Be Flexible</b></font></p>
+<p><font color="#676F79">Remember, a birth plan is to help you feel prepared, not to control everything. Labor can change quickly. Trust your doctor if plans need to adjust. A clear birth plan will help you feel calm and cared for on your big day!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.nhs.uk/start-for-life/pregnancy/preparing-for-labour-and-birth/what-to-include-in-your-birth-plan/">NHS UK - What to include in your birth plan</a><br/>
+    ]]></string>
+
+    <string name="labor_html_4"><![CDATA[
+<h3><font color="#D47173">Simple Tips to Move and Relax for an Easier Birth</font></h3>
+
+<p><font color="#1E293B"><b>Why Gentle Movement Matters</b></font></p>
+<p><font color="#676F79">Many moms worry that moving too much during pregnancy might hurt the baby. But light, safe exercises help keep your body strong and your pelvic floor flexible, making labor smoother and stress lower. Experts suggest starting gentle activities from the second trimester, when your body is more stable.</font></p>
+
+<p><font color="#1E293B"><b>Easy Exercises for Moms-to-Be</b></font></p>
+<p><font color="#676F79">You don’t need a hard workout. Just try these three simple moves daily:</font></p>
+<p>
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Gentle squats:</b></font>
+  <font color="#676F79"> Open the pelvis and help prepare for vaginal birth.<br/></font>
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Hip circles:</b></font>
+  <font color="#676F79"> Relax your back and hips, easing aches as your belly grows.<br/></font>
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Slow walking:</b></font>
+  <font color="#676F79"> 15–30 minutes a day boosts circulation and keeps both mom and baby healthy.</font>
+</p>
+<p><font color="#676F79">Always check with your doctor before starting any exercise to be sure it’s safe for you.</font></p>
+
+<p><font color="#1E293B"><b>Eat Well and Relax, Too</b></font></p>
+<p><font color="#676F79">Besides moving, healthy food is key. Eat balanced meals, split into small portions to avoid bloating. Pick easy-to-digest foods rich in protein, vitamins, and minerals.</font></p>
+<p><font color="#676F79">Take care of your mind as well. Good sleep, calm music, or a warm bath can help your body relax and lower stress — which makes labor easier.</font></p>
+
+<p><font color="#1E293B"><b>Stay Calm During Labor</b></font></p>
+<p><font color="#676F79">When labor starts, try to move slowly, change positions if your back hurts, and breathe deeply and evenly. This helps you handle contractions better and saves energy for pushing.</font></p>
+<p><font color="#676F79">A healthy body and a calm mind help your cervix open faster — and
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/exercise-during-pregnancy/">American Pregnancy Association - Exercise During Pregnancy</a><br/>
+    ]]></string>
+
+    <string name="labor_html_5"><![CDATA[
+<h3><font color="#D47173">How to Help Mom Feel Less Scared During Labor</font></h3>
+
+<p><font color="#676F79">Labor is one of the most emotional moments for a mom. She faces pain, fear, anxiety, and exhaustion all at once. That’s why her husband and family are like her emotional medicine, helping her stay calm and strong, and making the pain feel less scary. Sometimes, a gentle touch or a kind word is more comforting than any painkiller.</font></p>
+
+<p><font color="#1E293B"><b>What husbands should do during labor</b></font></p>
+<p>
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Stay by her side:</b></font>
+  <font color="#676F79"> Your presence is her biggest support. Sit close and hold her hand so she knows she’s not alone.</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Comfort her and wipe her sweat:</b></font>
+  <font color="#676F79"> When contractions come, she will feel tired and sweaty. Gently wipe her face and speak to her in a calm, soothing voice.</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Remind her to breathe deeply:</b></font>
+  <font color="#676F79"> Help her keep her breathing steady. Deep, slow breaths will reduce stress and ease the pain.</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Encourage her constantly:</b></font>
+  <font color="#676F79"> Simple words like “You’re doing so great!” or “Keep going, I’m so proud of you!” give her huge emotional strength to face each contraction bravely.</font><br/>
+
+  <font color="#1E293B">&nbsp;&nbsp;&nbsp;&nbsp;• <b>Handle paperwork and call the doctor in time:</b></font>
+  <font color="#676F79"> The husband should also be ready to take care of paperwork and call the nurse or doctor if there are any unusual signs. This keeps everything smooth and safe.</font>
+</p>
+
+<p><font color="#1E293B"><b>One loving word is worth more than painkillers</b></font></p>
+<p><font color="#676F79">Many studies show that kind words and support from the husband and family help moms worry less, feel less pain, and gain more confidence to give birth. So don’t hold back hugs, praise, or loving eye contact. Sometimes, a simple “You’re amazing!” can mean more than any pain relief!</font></p>
+<p><font color="#1E293B"><b>References:</b></font><br/>
+<a href="https://www.nhs.uk/pregnancy/labour-and-birth/what-happens/tips-for-your-birth-partner/">NHS UK - Tips for your birth partner</a><br/>
+    ]]></string>
+    <string name="read_more">Read more</string>
+    <string name="no_scan_to_display">No scan to display</string>
+
+    <string name="dot" translatable="false">.</string>
+    <string name="txt_tools">Tools</string>
+    <string name="txt_baby">Baby</string>
+    <string name="baby_name">Baby Name</string>
+    <string name="contraction_counter">Contraction counter</string>
+    <string name="kick_counter">Kicks counter</string>
+    <string name="txt_mom">Mom</string>
+    <string name="txt_shopping">Shopping</string>
+    <string name="favorite_name">Favorite Name</string>
+    <string name="txt_male">Male</string>
+    <string name="txt_female">Female</string>
+    <string name="input_your_name">Type your child\'s name....</string>
+    <string name="txt_rest">Rest</string>
+    <string name="txt_start">Start</string>
+    <string name="txt_finish">Finish</string>
+    <string name="txt_duration">Duration</string>
+    <string name="txt_interval">Interval</string>
+    <string name="txt_overview">Overview:</string>
+    <string name="weight_tracking">Pregnancy Weight Tracking</string>
+    <string name="txt_tooltip_contraction">
+        <![CDATA[
+        Uterine contractions are a normal and necessary part of preparing for childbirth. They may begin up to three weeks before labor and can be either real or false. Tracking contractions helps you recognize the right time to go to the hospital.<br>
+        <b>How to use the contraction counter:</b><br>
+        1. When you feel a contraction, tap the “<b>Contraction</b>” button to start timing.<br>
+        2. When the contraction ends, tap the “<b>Rest</b>” button to stop timing.<br>
+        3. The table will show the start time, end time, interval, and duration of each contraction.<br>
+        4. To delete incorrect entries, swipe them left.<br>
+        If you were just testing, tap the trash icon to clear all data.<br>
+        <b>How to identify real contractions:</b><br>
+        • Real contractions come at regular intervals.<br>
+        • The intensity and duration gradually increase.<br>
+        • When contractions are about 5 minutes apart, go to the hospital.
+        ]]>
+    </string>
+    <string name="txt_tooltip_kick">
+        <![CDATA[
+        <b>Description: </b>There are several basic techniques to help you count fetal movements. The two most commonly used methods by gynecologists are the <b>Pearson</b> and <b>Sadovsky methods</b><br>
+        How to use the fetal movement counter: The counter tracks the number of times your baby moves. To start counting, simply tap the <b>“foot”</b> button. The number of movements will appear at the top of the screen. Once your baby has moved 10 times, this is considered normal, and you can stop counting.The data table records the date, start and end time, duration, and number of movements.Each entry in the table represents a new day. If you accidentally tap the button, you can swipe left to delete the entry.<br>
+        <b>Pearson Method: </b>The main principle is to count up to 10 movements. You can do this at any time of the day. Once your baby has moved 10 times, you can stop — this means everything is fine and your baby is doing well.<br>
+        <b>Sadovsky Method: </b>This method is recommended when the baby is less active during the day. Counting should be done in the evening, after a meal, while lying on your back. If you feel <b>8–10 movements within one hour</b>, everything is normal. If not, continue counting for one more hour. If there are <b>fewer than 10 movements in two hours,</b> consult your doctor.
+        ]]>
+    </string>
+    <string name="weight_tracking_des">
+        <![CDATA[
+        <b>• Delete data:</b> Swipe from right to left.<br>
+        <b>• Edit:</b> Re-enter your weight on the same day to replace the previous entry.<br>
+        • ⚠️ The first entry cannot be deleted.<br>
+        <b>Weighing Tips:</b><br>
+        • Weigh yourself once a week on the <b>same day and time</b> (enable reminders).<br>
+        • Use the <b>same scale</b>, preferably an <b>electronic one.</b><br>
+        • Weigh yourself <b>after using the bathroom</b>, <b>before breakfast</b> or <b>before dinner.</b><br>
+        • Wear the <b>same clothes as the first time</b>, or <b>none at all</b> for better accuracy.<br>
+        <b>Chart & Data Entry</b><br>
+        • The chart shows your weight by <b>pregnancy week</b> (unit: kg).<br>
+        • On your first app use, enter your <b>weight and height</b> to calculate <b>BMI</b>, which helps personalize your weight gain plan.<br>
+        • Tap <b>“Add Weight”</b> to enter the date and your current weight.
+        ]]>
+    </string>
+    <string name="ask_delete_records">Delete all contraction records?</string>
+    <string name="ask_delete_name">Are you sure you want to delete this name?</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_contraction">Contraction</string>
+    <string name="txt_delete">Delete</string>
+    <string name="first_kick">First kick:</string>
+    <string name="last_kick">Last kick:</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_quanlity">Quality</string>
+    <string name="txt_period">Period</string>
+    <string name="count_kick_title">As of today, the norm has been met</string>
+    <string name="count_kick_des">Continue measuring?</string>
+    <string name="txt_no">No</string>
+    <string name="txt_description">Description:</string>
+    <string name="add_weight">Add weight</string>
+    <string name="starting_weight">Starting Weight</string>
+    <string name="starting_weight_des"><![CDATA[Enter last period weight & date:]]></string>
+    <string name="current_weight">Current Weight</string>
+    <string name="current_weight_des"><![CDATA[Enter current weight & date:]]></string>
+    <string name="submit_weight">Submit Weight</string>
+    <string name="my_weight">My weight</string>
+    <string name="recommend_weight">Recommended Weight again</string>
+    <string name="actual_weight">My actual weight</string>
+    <string name="txt_add">Add</string>
+    <string name="save_weight">Save weight</string>
+    <string name="common_error">An error occurred, please try again.</string>
+    <string name="txt_week">Week</string>
+    <string name="txt_weight">Weight</string>
+    <string name="txt_change">Change</string>
+    <string name="my_items">My items</string>
+    <string name="txt_items">items</string>
+    <string name="txt_item">item</string>
+    <string name="txt_english">English</string>
+    <string name="txt_hindi">Hindi</string>
+    <string name="txt_chinese">Chinese</string>
+    <string name="txt_spanish">Spanish</string>
+    <string name="txt_portuguese">Portuguese</string>
+    <string name="txt_french">French</string>
+    <string name="txt_russian">Russian</string>
+    <string name="txt_german">German</string>
+    <string name="txt_japanese">Japanese</string>
+    <string name="txt_turkish">Turkish</string>
+    <string name="txt_korean">Korean</string>
+    <string name="txt_indonesian">Indonesian</string>
+    <string name="no_favorite_yet">No Favorite Yet.</string>
+    <string name="baby_supply">Baby supplies</string>
+    <string name="baby_hygiene">Baby hygiene products</string>
+    <string name="postpartum_supply">Postpartum supplies</string>
+    <string name="baby_tool">Baby care support tools</string>
+    <string name="baby_food">Baby food</string>
+    <string name="baby_medical">Baby medical products</string>
+    <string name="baby_gear">Baby gear when going out</string>
+    <string name="add_item">Add item</string>
+    <string name="enter_item">Enter theme name here</string>
+    <string name="add_item_des">Please enter item name.</string>
+    <string name="txt_save">Save</string>
+    <string name="no_item">No item.</string>
+
+    <string name="event">• Event</string>
+    <string name="event_date">Events, %s</string>
+    <string name="enter_event">Enter event</string>
+    <string name="specialty">Specialty</string>
+    <string name="date_of_receipt">• Date of receipt</string>
+    <string name="comments">• Comments</string>
+    <string name="write_a_comment">Write a comment</string>
+    <string name="medication_name">• Medication name</string>
+    <string name="add_medication_name_here">Add medication name here</string>
+    <string name="type">Type</string>
+    <string name="dose">Dose</string>
+    <string name="number_of_times_per_day">Number of times per day</string>
+    <string name="frequency">Frequency</string>
+    <string name="meal_instructions">Meal instructions</string>
+    <string name="duration">Duration</string>
+    <string name="times_to_take">Times to take</string>
+    <string name="select_the_date_and_time">Select the date and time</string>
+    <string name="how_are_you_feeling_right_now">How are you feeling right now?</string>
+    <string name="happy">Happy</string>
+    <string name="optimistic">Optimistic</string>
+    <string name="energetic">Energetic</string>
+    <string name="decisive">Decisive</string>
+    <string name="joyful">Joyful</string>
+    <string name="satisfied">Satisfied</string>
+    <string name="enthusiastic">Enthusiastic</string>
+    <string name="in_love">In love</string>
+    <string name="good">Good</string>
+    <string name="gloomy">Gloomy</string>
+    <string name="sad">Sad</string>
+    <string name="stressful">Stressful</string>
+    <string name="upset">Upset</string>
+    <string name="lazy">Lazy</string>
+    <string name="dissatisfied">Dissatisfied</string>
+    <string name="angry">Angry</string>
+    <string name="depressive">Depressive</string>
+    <string name="tearful">Tearful</string>
+    <string name="terrible">Terrible</string>
+    <string name="lonely">Lonely</string>
+    <string name="scared">Scared</string>
+    <string name="do_you_want_to_save_changes">Do you want to save changes?</string>
+    <string name="do_you_want_to_delete_this_event">Do you want to delete this event?</string>
+    <string name="txt_edit">Edit</string>
+    <string name="medication_1">Tablet</string>
+    <string name="medication_2">Capsule</string>
+    <string name="medication_3">Drops</string>
+    <string name="medication_4">Syrup</string>
+    <string name="medication_5">Cream</string>
+    <string name="medication_6">Gel</string>
+    <string name="medication_7">Injection</string>
+    <string name="medication_8">Powder</string>
+    <string name="medication_9">Other</string>
+    <string name="done">Done</string>
+    <string name="specialty_1">Primary care physician</string>
+    <string name="specialty_2">Obstetrician/gynecologist</string>
+    <string name="specialty_3">Woman’s consultation</string>
+    <string name="specialty_4">Clinic</string>
+    <string name="specialty_5">Hospital</string>
+    <string name="specialty_6">Other</string>
+    <string name="unit_1" translatable="false">pcs</string>
+    <string name="unit_2" translatable="false">units</string>
+    <string name="unit_3" translatable="false">mg</string>
+    <string name="unit_4" translatable="false">ml</string>
+    <string name="unit_5" translatable="false">g</string>
+    <string name="unit_6" translatable="false">l</string>
+    <string name="every">Every</string>
+    <string name="after_1">After 1</string>
+    <string name="after_2">After 2</string>
+    <string name="after_3">After 3</string>
+    <string name="after_4">After 4</string>
+    <string name="after_5">After 5</string>
+    <string name="after_6">After 6</string>
+    <string name="after_7">After 7</string>
+    <string name="after_8">After 8</string>
+    <string name="after_9">After 9</string>
+    <string name="after_10">After 10</string>
+    <string name="d">D.</string>
+    <string name="w">w.</string>
+    <string name="m">M.</string>
+    <string name="meal_instruction_1">not determined</string>
+    <string name="meal_instruction_2">before meal</string>
+    <string name="meal_instruction_3">after milk</string>
+    <string name="duration_unit_1">day</string>
+    <string name="duration_unit_2">week</string>
+    <string name="duration_unit_3">month</string>
+    <string name="time">Time</string>
+    <string name="delete">Delete</string>
+    <string name="rutabaga">Rutabaga</string>
+    <string name="please_select_future_time">Please select future time</string>
+    <string name="notification_appointment">Don’t forget your appointment!</string>
+    <string name="notification_medication">It\'s time to take your medicine, Mommy!</string>
+    <string name="notification_note">Mommy, don’t forget to write your note today!</string>
+    <string name="let_me_recommend">Let me recommend</string>
+    <string name="share_to">Share to</string>
+    <string name="we_are_working_hard_for_a_better_user_experience_we_d_greatly_appreciate_if_you_can_rate_us">We are working hard for a better user experience. We’d greatly appreciate if you can rate us.</string>
+    <string name="the_best_we_can_get">The best we can get :)</string>
+    <string name="not_now">Not now</string>
+    <string name="nutrition_title_1"><![CDATA[What to Eat for a Healthy Baby & a Glowing Mom]]></string>
+    <string name="nutrition_title_2">Foods to Avoid During Pregnancy</string>
+    <string name="nutrition_title_3">7 Healthy Treats for Each Trimester</string>
+    <string name="nutrition_title_4">Cravings During Pregnancy: Give In or Let It Go?</string>
+    <string name="nutrition_title_5">Top 10 "Golden" Fruits for Expecting Moms</string>
+    <string name="baby_title_1">The Fetal Journey in the First 12 Weeks</string>
+    <string name="baby_title_2">Feeling Baby’s First Kicks</string>
+    <string name="baby_title_3">Baby Hiccups in the Womb</string>
+    <string name="baby_title_4">Unpacking How Your Baby’s Gender Is Determined</string>
+    <string name="baby_title_5">Signs of Preterm Labor and How to Prepare</string>
+    <string name="excercise_title_1">5 gentle moves to keep your pregnancy healthy every day</string>
+    <string name="excercise_title_2">"Do’s and Don’ts" for exercising during pregnancy</string>
+    <string name="excercise_title_3">Prenatal Yoga and its benefits</string>
+    <string name="excercise_title_4">A safe workout guide for every stage of pregnancy</string>
+    <string name="excercise_title_5">A simple daily routine to help you sleep well and ease body aches</string>
+    <string name="feeling_title_1"><![CDATA[Common Pregnancy Worries & How to Stay Calm]]></string>
+    <string name="feeling_title_2"><![CDATA[Pregnancy Brain & Emotional Ups and Downs]]></string>
+    <string name="feeling_title_3">Tips For Better Sleep During Pregnancy</string>
+    <string name="feeling_title_4"><![CDATA[Common Body Changes During Pregnancy & How to Care for Them]]></string>
+    <string name="feeling_title_5"><![CDATA[Understanding Pregnancy Aches & How to Relieve Them Safely]]></string>
+    <string name="labor_title_1">The Final Weeks: Excitement and Waiting for the Big Day</string>
+    <string name="labor_title_2">Final Week Checklist: Be 100% Ready for Baby’s Arrival</string>
+    <string name="labor_title_3">Birth Plan: Write It to Feel More in Control</string>
+    <string name="labor_title_4">Simple Tips to Move and Relax for an Easier Birth</string>
+    <string name="labor_title_5">How to Help Mom Feel Less Scared During Labor</string>
+    <string name="event_can_t_be_empty">Event can\'t be empty</string>
+    <string name="very_light">Very light</string>
+</resources>
