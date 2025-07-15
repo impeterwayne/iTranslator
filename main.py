@@ -94,7 +94,7 @@ Translated file:"""
             response = response.content
         
         # Replace single quotes with escaped single quotes
-        translated_content = re.sub(r'```xml\s*|\s*```', '', translated_content, flags=re.DOTALL)
+        translated_content = re.sub(r'```xml\s*|\s*```', '', response, flags=re.DOTALL)
         translated_content = escape_quotes_outside_cdata(translated_content)
         return translated_content
         
@@ -114,7 +114,7 @@ async def translate_language(source_file, lang_code, base_dir):
             model="gpt-4o-mini",
             api_key=os.getenv("OPENAI_API_KEY"),
             max_tokens=16000,
-            temperature=0.5,
+            temperature=0.2,
         )
     elif provider == "gemini":
         llm = ChatGoogleGenerativeAI(
