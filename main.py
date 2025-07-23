@@ -44,19 +44,11 @@ def num_tokens_from_string(string: str, encoding_name: str) -> int:
 
 def escape_quotes_outside_cdata(text):
     """
-    Escapes single quotes in a string, but ignores any quotes
-    that are inside a <![CDATA[...]]> section.
+    Escapes single quotes in a string.
     """
-    # This pattern matches either a CDATA section or a single quote.
-    pattern = r"(<!\[CDATA\[.*?\]\]>)|(')"
-
+    pattern = r"(')"
     def replacer(match):
-        # If the first group (the CDATA section) was matched, return it unchanged.
-        if match.group(1):
-            return match.group(1)
-        # Otherwise, the second group (the single quote) was matched, so escape it.
-        else:
-            return r"\'"
+        return r"\'"
 
     return re.sub(pattern, replacer, text, flags=re.DOTALL)
 
@@ -114,7 +106,7 @@ async def translate_language(source_file, lang_code, base_dir):
             model="gpt-4o-mini",
             api_key=os.getenv("OPENAI_API_KEY"),
             max_tokens=16000,
-            temperature=0.2,
+            temperature=0.5,
         )
     elif provider == "gemini":
         llm = ChatGoogleGenerativeAI(

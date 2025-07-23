@@ -49,18 +49,10 @@ def create_directory_structure():
 
 def escape_quotes_outside_cdata(text):
     """
-    Escapes single quotes in a string, but ignores any quotes
-    that are inside a <![CDATA[...]]> section.
+    Escapes single quotes in a string.
     """
-    # This pattern matches either a CDATA section or a single quote.
-    pattern = r"(<!\[CDATA\[.*?\]\]>)|(')"
-
+    pattern = r"(')"
     def replacer(match):
-        # If the first group (the CDATA section) was matched, return it unchanged.
-        if match.group(1):
-            return match.group(1)
-        # Otherwise, the second group (the single quote) was matched, so escape it.
-        else:
             return r"\'"
 
     return re.sub(pattern, replacer, text, flags=re.DOTALL)
