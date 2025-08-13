@@ -84,24 +84,36 @@ def strip_code_fences(text: str) -> str:
     text = re.sub(r"\s*```\s*$", "", text)
     return text.strip()
 
-# --------------------- prefilter: drop non-translatables ----------------------
-_NONTRANS_BLOCK = re.compile(
-    r'<(?P<tag>string|plurals|string-array)\b[^>]*?\btranslatable\s*=\s*(["\'])false\2[^>]*>'
-    r'[\s\S]*?'
-    r'</(?P=tag)\s*>',
-    flags=re.IGNORECASE
-)
+# --------------------- prefilter: drop non-translatables (newline-safe) -------
+# Match the whole line containing the node (leading spaces + node + trailing newline)
 _NONTRANS_SELF = re.compile(
-    r'<(?:string|plurals|string-array)\b[^>]*?\btranslatable\s*=\s*(["\'])false\1[^>]*/\s*>',
-    flags=re.IGNORECASE
+    r'(?m)^[ \t]*<(?:string|plurals|string-array)\b[^>]*?\btranslatable\s*=\s*(["\'])false\1[^>]*/\s*>[ \t]*\r?\n?'
 )
 
+_NONTRANS_BLOCK = re.compile(
+    r'(?ms)^[ \t]*<(?P<tag>string|plurals|string-array)\b[^>]*?\btranslatable\s*=\s*(["\'])false\2[^>]*>'
+    r'.*?'
+    r'</(?P=tag)\s*>[ \t]*\r?\n?'
+)
+
+_BLANK_LINE_RUN = re.compile(r'(?m)(?:^[ \t]*\r?\n){2,}')  # 2+ blank lines → 1
+
 def remove_nontranslatables(xml_text: str):
+    # Remove self-closed entries (consume their whole line)
     filtered, n1 = _NONTRANS_SELF.subn('', xml_text)
+    # Remove block entries (consume their whole line)
     filtered, n2 = _NONTRANS_BLOCK.subn('', filtered)
+
+    # Collapse any leftover blank-line runs to a single blank line
+    filtered = _BLANK_LINE_RUN.sub('\n', filtered)
+
+    # Tidy just inside <resources> ... </resources>
+    filtered = re.sub(r'(<\s*resources\b[^>]*>\s*)(?:\r?\n)+', r'\1', filtered, flags=re.IGNORECASE)
+    filtered = re.sub(r'(?:\r?\n)+(\s*</\s*resources\s*>)', r'\n\1', filtered, flags=re.IGNORECASE)
+
     removed = n1 + n2
-    filtered = re.sub(r'\n[ \t]*\n[ \t]*\n+', '\n\n', filtered)
     return filtered, removed
+# ----------------------------------------------------------------------------- 
 
 def empty_resources_skeleton(original_xml: str) -> str:
     m = re.search(r'<\s*resources\b[^>]*>', original_xml, flags=re.IGNORECASE)
@@ -298,7 +310,7 @@ Important rules:
 6. Preserve printf-style placeholders (e.g., %s, %1$s), escaped quotes, and HTML-like markup.
 7. Be accurate; do not invent translations.
 8. Output ONLY the translated XML file content (no explanations, no markdown fences).
-9. BE CONCISE
+9. BE CONCISE on tranlations
 Here is the file to translate:
 
 {masked_content}
@@ -337,7 +349,7 @@ Translated file:
 
         # Optional: force stray specials to hex entities
         # translated_content = force_hex_entities_for_specials(translated_content)
-
+        translated_content = _BLANK_LINE_RUN.sub('\n', translated_content)
         return translated_content
 
     except Exception as e:
