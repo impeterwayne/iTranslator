@@ -355,7 +355,7 @@ async def translate_language(source_file: str, lang_code: str, base_dir: str):
             api_key=os.getenv("OPENAI_API_KEY"),
             max_tokens=int(os.getenv("OPENAI_MAX_TOKENS", "16000")),
             temperature=float(os.getenv("OPENAI_TEMPERATURE", "0.3")),
-            timeout=float(os.getenv("OPENAI_TIMEOUT", "120")),
+            timeout=float(os.getenv("OPENAI_TIMEOUT", "360")),
         )
     elif provider == "gemini":
         llm = ChatGoogleGenerativeAI(
