@@ -11,7 +11,7 @@ pip install -r requirements.txt
 **3. Định nghĩa tên dòng app để LLM dịch chuẩn hơn trong file ```.env```**
 
 ```
-APP_NAME=Pregnancy Tracker and Calculator
+APP_NAME=AI Photo Editor
 ```
 
 **4. Tiến hành dịch**
