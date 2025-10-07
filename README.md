@@ -23,9 +23,3 @@ APP_NAME=AI Photo Editor
 ```
 python main.py
 ```
-	
-Với file dài thì chạy
-	
-```
-python chunk.py
-```
