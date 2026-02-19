@@ -10,6 +10,7 @@ import asyncio
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import re
 import unicodedata
+from languages import get_language_name
 
 # ---------- UTF-8 everywhere (fixes typical "utf8" errors) ----------
 os.environ.setdefault("PYTHONUTF8", "1")
@@ -347,7 +348,8 @@ def build_llm():
         raise ValueError(f"Unknown TRANSLATION_PROVIDER: {provider}")
 
 def llm_translate_chunk(masked_chunk: str, target_language: str, app_name: str, llm, provider: str) -> str:
-    prompt = f"""You are an expert localization specialist for mobile applications. Translate this Android strings XML snippet to ISO language code: {target_language} for the "{app_name}" application.
+    language_name = get_language_name(target_language)
+    prompt = f"""You are an expert localization specialist for mobile applications. Translate this Android strings XML snippet to {language_name} (language code: {target_language}) for the "{app_name}" application.
 
 CRITICAL TRANSLATION GUIDELINES:
 

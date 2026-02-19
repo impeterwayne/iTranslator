@@ -1,3 +1,3 @@
-.env 
-output/  
-output.zip 
+__pycache__/
+output/
+output.zip
